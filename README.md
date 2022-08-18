@@ -1,7 +1,7 @@
 # evm
 
 Hey there ,
-This is the project i made for the 24 h Long hacktathon for MOTORQ selection process 
+This is the project I , hritik goel 20brs1035 made for the 24 h Long hacktathon for MOTORQ selection process 
 PRE REQUISITES - 
 MONGO DB , NODE 
 
