@@ -11,4 +11,4 @@ Steps to create and run in your local machine -
 3) open localhost:3000/login to create a user for yourself and you would be ggod to go.
 
 
-video link -  
+video link -  https://drive.google.com/file/d/1FzZfWuKExGZSuEcUYeDhvMkzwZ9Ia0ZQ/view?usp=sharing
